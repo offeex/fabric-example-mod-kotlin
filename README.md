@@ -1,5 +1,8 @@
 # Fabric Example Mod - Kotlin
 ![Gradle build](https://github.com/natanfudge/fabric-example-mod-kotlin/workflows/Gradle%20build/badge.svg)
+
+> Snapshots are not supported. Choose your minecraft version via git branch
+
 ## Setup
 
 0. Create a new mod repository by pressing the "Use this template" button and clone the created repository.
